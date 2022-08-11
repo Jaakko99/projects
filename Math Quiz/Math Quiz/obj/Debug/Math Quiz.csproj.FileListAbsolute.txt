@@ -1,0 +1,10 @@
+D:\Työhommia\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+D:\Työhommia\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+D:\Työhommia\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+D:\Työhommia\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.AssemblyReference.cache
+D:\Työhommia\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+D:\Työhommia\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+D:\Työhommia\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.cache
+D:\Työhommia\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.CoreCompileInputs.cache
+D:\Työhommia\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+D:\Työhommia\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
